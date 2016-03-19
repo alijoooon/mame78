@@ -251,7 +251,7 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
+channel : @mr_team
 sodu : @mr_editoram
 ]],
     help_text_realm = [[
@@ -518,7 +518,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+ساخته شده توسط مستر ادیتور
 
 G00D LUCK ^_^
 ]]
