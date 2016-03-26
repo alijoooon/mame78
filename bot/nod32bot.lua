@@ -245,7 +245,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {205364303},--Sudo users
+	    sudo_users = {205364303,173345972},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -255,7 +255,7 @@ channel : @mr_team
 sodu : @mr_editoram
 ]],
     help_text_realm = [[
-Realm Commands:
+Realm Commands:کس عمت 
 
 !creategroup [Name]
 Create a group
@@ -317,13 +317,13 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @mahshid_boot
+ch: @editoram
 
 ]],
     help_text = [[
 NOD32 Commands list :
  
-1-banhammer list ^
+1-banhammer list ^ کس عمت قشنگ بخون باز نرینی 
  
 !kick [username|id]
 (کیک کردن شخص (حتی با ریپلی)
@@ -520,7 +520,7 @@ you can use both "/" and "!"
 
 ساخته شده توسط مستر ادیتور
 
-G00D LUCK ^_^
+سینه =چاک عمت علی
 ]]
    }
   serialize_to_file(config, './data/config.lua')
